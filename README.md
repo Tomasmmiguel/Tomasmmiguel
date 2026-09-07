@@ -71,17 +71,6 @@ Olá! 👋 Sou o **Tomás Miguel**, estudante de **Engenharia Informática**. So
 
 <p align="center">
   <img 
-    alt="Estatísticas do GitHub" 
-    src="https://github-readme-stats.vercel.app/api?username=Tomasmmiguel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
-  />
-  <img 
-    alt="Linguagens Mais Usadas" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasmmiguel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
-</p>
-
-<p align="center">
-  <img 
     alt="Streak de Commits" 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Tomasmmiguel&theme=tokyonight" 
   />
