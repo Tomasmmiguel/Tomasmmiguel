@@ -1,177 +1,94 @@
-# 👩🏻‍💻 Tomás Miguel
+# 👨🏻‍💻 Tomás Miguel
 
-**`Desenvolvedora FullStack`**
+**`Estudante de Engenharia Informática`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Olá! 👋 Sou o **Tomás Miguel**, estudante de **Engenharia Informática**. Sou apaixonado por tecnologia, desenvolvimento de software e resolução de problemas. Estou constantemente a aprender novas linguagens, ferramentas e boas práticas de engenharia de software para criar soluções modernas e eficientes.
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Estudante+de+Engenharia+Inform%C3%A1tica;Desenvolvedor+em+Constante+Evolu%C3%A7%C3%A3o;Focado+em+C%C3%B3digo+Limpo+%26+Inova%C3%A7%C3%A3o" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+  <a href="https://www.instagram.com/tomasmmiguel/" target="_blank">
+    <img 
+      alt="Instagram" 
+      title="Siga-me no Instagram" 
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+  </a>
+  <a href="https://github.com/Tomasmmiguel?tab=followers" target="_blank">
+    <img 
+      alt="Seguidores" 
+      title="Seguidores no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/followers/Tomasmmiguel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+  <a href="https://github.com/Tomasmmiguel?tab=repositories&sort=stargazers" target="_blank">
+    <img 
+      alt="Total de estrelas" 
+      title="Total de estrelas no GitHub" 
+      src="https://custom-icon-badges.demolab.com/github/stars/Tomasmmiguel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
+    />
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Ferramentas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<!-- Ícones oficiais (Devicon) -->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="38" height="38" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="38" height="38" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="38" height="38" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="38" height="38" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="38" height="38" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="38" height="38" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="38" height="38" />
 </p>
 
+<!-- Badges Modernas com Cores Oficiais -->
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img 
+    alt="Estatísticas do GitHub" 
+    src="https://github-readme-stats.vercel.app/api?username=Tomasmmiguel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" 
+  />
+  <img 
+    alt="Linguagens Mais Usadas" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomasmmiguel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    alt="Streak de Commits" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Tomasmmiguel&theme=tokyonight" 
+  />
+</p>
+
+---
+
+<p align="center">
+  <sub>Construído com 💻 e dedicação por <b>Tomás Miguel</b> ✨</sub>
+</p>
