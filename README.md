@@ -79,5 +79,5 @@ Olá! 👋 Sou o **Tomás Miguel**, estudante de **Engenharia Informática**. So
 ---
 
 <p align="center">
-  <sub>Construído com 💻 e dedicação por <b>Tomás Miguel</b> ✨</sub>
+  <sub>Code. Create. Improve. Repeat. 💻🔄</sub>
 </p>
