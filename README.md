@@ -17,8 +17,6 @@ Estudante de Engenharia Informática com interesse em desenvolvimento de softwar
 
 ## Competências Técnicas
 
-## Competências Técnicas
-
 **Linguagens**
 
 <p align="left">
