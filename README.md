@@ -6,7 +6,7 @@ Estudante de Engenharia Informática com interesse em desenvolvimento de softwar
 
 <p align="left">
   <a href="https://github.com/Tomasmmiguel?tab=followers" target="_blank">
-    <img alt="Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/Tomasmmiguel?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
+    <img alt="Seguidores no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Tomasmmiguel?color=d4a017&style=for-the-badge&labelColor=b8860b&logo=star&label=Estrelas" />
   </a>
   <a href="https://github.com/Tomasmmiguel?tab=repositories&sort=stargazers" target="_blank">
     <img alt="Estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Tomasmmiguel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" />
