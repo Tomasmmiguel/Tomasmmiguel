@@ -11,9 +11,6 @@ Estudante de Engenharia Informática com interesse em desenvolvimento de softwar
   <a href="https://github.com/Tomasmmiguel?tab=repositories&sort=stargazers" target="_blank">
     <img alt="Estrelas no GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Tomasmmiguel?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas" />
   </a>
-  <a href="https://www.instagram.com/tomasmmiguel/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
